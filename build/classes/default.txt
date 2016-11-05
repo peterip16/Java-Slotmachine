@@ -1,0 +1,4 @@
+theme: default
+reels: 4
+symbols: 7
+tokens: 10
